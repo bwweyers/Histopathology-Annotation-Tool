@@ -1,0 +1,2 @@
+# Histopathology-Annotation-Tool
+The code comprised herein allows for: (1) the development of an itemized histopathology label set to select pathological features of interest for annotation, (2) a tool to import and label ‘ground truth’ reference images with histopathology, and (3) a tool to visualize annotated images. The purpose of this code is to create ‘ground truth’ reference images to create data masks which allow for the extraction of optical data associated to histopathology status. 
